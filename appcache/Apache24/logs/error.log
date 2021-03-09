@@ -1,0 +1,84 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c518:a9f2:846b:8155. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 07 22:30:54.526194 2021] [mpm_winnt:notice] [pid 5536:tid 888] AH00455: Apache/2.4.46 (Win32) LibreSSL/3.1.4 configured -- resuming normal operations
+[Sun Mar 07 22:30:54.528426 2021] [mpm_winnt:notice] [pid 5536:tid 888] AH00456: Server built: Sep  2 2020 21:04:20
+[Sun Mar 07 22:30:54.528426 2021] [core:notice] [pid 5536:tid 888] AH00094: Command line: 'httpd.exe -d D:/appcache/Apache24'
+[Sun Mar 07 22:30:54.531421 2021] [mpm_winnt:notice] [pid 5536:tid 888] AH00418: Parent: Created child process 21348
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c518:a9f2:846b:8155. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::c518:a9f2:846b:8155. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 07 22:30:55.573380 2021] [mpm_winnt:notice] [pid 21348:tid 1712] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 07 22:35:03.074060 2021] [mpm_winnt:notice] [pid 5536:tid 888] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 07 22:35:05.076836 2021] [mpm_winnt:notice] [pid 21348:tid 1712] AH00364: Child: All worker threads have exited.
+[Sun Mar 07 22:35:05.122329 2021] [mpm_winnt:notice] [pid 5536:tid 888] AH00430: Parent: Child process 21348 exited successfully.
+[Sun Mar 07 22:35:15.686427 2021] [mpm_winnt:notice] [pid 19824:tid 716] AH00455: Apache/2.4.46 (Win32) LibreSSL/3.1.4 configured -- resuming normal operations
+[Sun Mar 07 22:35:15.687354 2021] [mpm_winnt:notice] [pid 19824:tid 716] AH00456: Server built: Sep  2 2020 21:04:20
+[Sun Mar 07 22:35:15.687354 2021] [core:notice] [pid 19824:tid 716] AH00094: Command line: 'httpd.exe -d D:/appcache/Apache24'
+[Sun Mar 07 22:35:15.689349 2021] [mpm_winnt:notice] [pid 19824:tid 716] AH00418: Parent: Created child process 13144
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 13144:tid 1484] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 07 22:35:18.727895 2021] [mpm_winnt:notice] [pid 19824:tid 716] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 07 22:35:20.731553 2021] [mpm_winnt:notice] [pid 13144:tid 1484] AH00364: Child: All worker threads have exited.
+[Sun Mar 07 22:35:20.760712 2021] [mpm_winnt:notice] [pid 19824:tid 716] AH00430: Parent: Child process 13144 exited successfully.
+[Sun Mar 07 22:35:30.547041 2021] [mpm_winnt:notice] [pid 21740:tid 680] AH00455: Apache/2.4.46 (Win32) LibreSSL/3.1.4 configured -- resuming normal operations
+[Sun Mar 07 22:35:30.549046 2021] [mpm_winnt:notice] [pid 21740:tid 680] AH00456: Server built: Sep  2 2020 21:04:20
+[Sun Mar 07 22:35:30.549046 2021] [core:notice] [pid 21740:tid 680] AH00094: Command line: 'D:\\appcache\\Apache24\\bin\\httpd.exe -d D:/appcache/Apache24'
+[Sun Mar 07 22:35:30.553979 2021] [mpm_winnt:notice] [pid 21740:tid 680] AH00418: Parent: Created child process 21596
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21596:tid 1484] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 07 22:38:57.209163 2021] [mpm_winnt:notice] [pid 21740:tid 680] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 07 22:38:59.212919 2021] [mpm_winnt:notice] [pid 21596:tid 1484] AH00364: Child: All worker threads have exited.
+[Sun Mar 07 22:38:59.256935 2021] [mpm_winnt:notice] [pid 21740:tid 680] AH00430: Parent: Child process 21596 exited successfully.
+[Sun Mar 07 22:39:40.263445 2021] [mpm_winnt:notice] [pid 18328:tid 716] AH00455: Apache/2.4.46 (Win32) LibreSSL/3.1.4 configured -- resuming normal operations
+[Sun Mar 07 22:39:40.267532 2021] [mpm_winnt:notice] [pid 18328:tid 716] AH00456: Server built: Sep  2 2020 21:04:20
+[Sun Mar 07 22:39:40.268301 2021] [core:notice] [pid 18328:tid 716] AH00094: Command line: 'D:\\appcache\\Apache24\\bin\\httpd.exe -d D:/appcache/Apache24'
+[Sun Mar 07 22:39:40.273285 2021] [mpm_winnt:notice] [pid 18328:tid 716] AH00418: Parent: Created child process 15512
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 15512:tid 1484] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 07 22:41:53.128138 2021] [mpm_winnt:notice] [pid 18328:tid 716] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 07 22:41:55.131039 2021] [mpm_winnt:notice] [pid 15512:tid 1484] AH00364: Child: All worker threads have exited.
+[Sun Mar 07 22:41:55.177864 2021] [mpm_winnt:notice] [pid 18328:tid 716] AH00430: Parent: Child process 15512 exited successfully.
+[Sun Mar 07 22:41:56.745896 2021] [mpm_winnt:notice] [pid 22608:tid 712] AH00455: Apache/2.4.46 (Win32) LibreSSL/3.1.4 configured -- resuming normal operations
+[Sun Mar 07 22:41:56.746892 2021] [mpm_winnt:notice] [pid 22608:tid 712] AH00456: Server built: Sep  2 2020 21:04:20
+[Sun Mar 07 22:41:56.746892 2021] [core:notice] [pid 22608:tid 712] AH00094: Command line: 'D:\\appcache\\Apache24\\bin\\httpd.exe -d D:/appcache/Apache24'
+[Sun Mar 07 22:41:56.751879 2021] [mpm_winnt:notice] [pid 22608:tid 712] AH00418: Parent: Created child process 23524
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 23524:tid 1484] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 07 22:42:31.384872 2021] [mpm_winnt:notice] [pid 22608:tid 712] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 07 22:42:33.387259 2021] [mpm_winnt:notice] [pid 23524:tid 1484] AH00364: Child: All worker threads have exited.
+[Sun Mar 07 22:42:33.432148 2021] [mpm_winnt:notice] [pid 22608:tid 712] AH00430: Parent: Child process 23524 exited successfully.
+[Sun Mar 07 22:42:37.225942 2021] [mpm_winnt:notice] [pid 17928:tid 708] AH00455: Apache/2.4.46 (Win32) LibreSSL/3.1.4 configured -- resuming normal operations
+[Sun Mar 07 22:42:37.226939 2021] [mpm_winnt:notice] [pid 17928:tid 708] AH00456: Server built: Sep  2 2020 21:04:20
+[Sun Mar 07 22:42:37.226939 2021] [core:notice] [pid 17928:tid 708] AH00094: Command line: 'D:\\appcache\\Apache24\\bin\\httpd.exe -d D:/appcache/Apache24'
+[Sun Mar 07 22:42:37.229931 2021] [mpm_winnt:notice] [pid 17928:tid 708] AH00418: Parent: Created child process 13340
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 13340:tid 1484] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 07 22:45:29.408421 2021] [mpm_winnt:notice] [pid 17928:tid 708] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 07 22:45:31.411123 2021] [mpm_winnt:notice] [pid 13340:tid 1484] AH00364: Child: All worker threads have exited.
+[Sun Mar 07 22:45:31.451961 2021] [mpm_winnt:notice] [pid 17928:tid 708] AH00430: Parent: Child process 13340 exited successfully.
+[Sun Mar 07 22:45:38.213223 2021] [mpm_winnt:notice] [pid 13948:tid 688] AH00455: Apache/2.4.46 (Win32) LibreSSL/3.1.4 configured -- resuming normal operations
+[Sun Mar 07 22:45:38.215216 2021] [mpm_winnt:notice] [pid 13948:tid 688] AH00456: Server built: Sep  2 2020 21:04:20
+[Sun Mar 07 22:45:38.215216 2021] [core:notice] [pid 13948:tid 688] AH00094: Command line: 'D:\\appcache\\Apache24\\bin\\httpd.exe -d D:/appcache/Apache24'
+[Sun Mar 07 22:45:38.217242 2021] [mpm_winnt:notice] [pid 13948:tid 688] AH00418: Parent: Created child process 12828
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 12828:tid 1484] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 07 22:47:16.072745 2021] [mpm_winnt:notice] [pid 13948:tid 688] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 07 22:47:20.594575 2021] [mpm_winnt:notice] [pid 12828:tid 1484] AH00364: Child: All worker threads have exited.
+[Sun Mar 07 22:47:22.330692 2021] [core:warn] [pid 1232:tid 676] AH00098: pid file D:/appcache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 07 22:47:22.334681 2021] [mpm_winnt:notice] [pid 1232:tid 676] AH00455: Apache/2.4.46 (Win32) LibreSSL/3.1.4 configured -- resuming normal operations
+[Sun Mar 07 22:47:22.334681 2021] [mpm_winnt:notice] [pid 1232:tid 676] AH00456: Server built: Sep  2 2020 21:04:20
+[Sun Mar 07 22:47:22.334681 2021] [core:notice] [pid 1232:tid 676] AH00094: Command line: 'D:\\appcache\\Apache24\\bin\\httpd.exe -d D:/appcache/Apache24'
+[Sun Mar 07 22:47:22.336678 2021] [mpm_winnt:notice] [pid 1232:tid 676] AH00418: Parent: Created child process 19520
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 19520:tid 1484] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 07 22:49:00.281687 2021] [mpm_winnt:notice] [pid 1232:tid 676] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 07 22:49:02.285120 2021] [mpm_winnt:notice] [pid 19520:tid 1484] AH00364: Child: All worker threads have exited.
+[Sun Mar 07 22:49:02.324964 2021] [mpm_winnt:notice] [pid 1232:tid 676] AH00430: Parent: Child process 19520 exited successfully.
+[Mon Mar 08 22:33:52.803370 2021] [mpm_winnt:notice] [pid 7524:tid 688] AH00455: Apache/2.4.46 (Win32) LibreSSL/3.1.4 configured -- resuming normal operations
+[Mon Mar 08 22:33:52.805363 2021] [mpm_winnt:notice] [pid 7524:tid 688] AH00456: Server built: Sep  2 2020 21:04:20
+[Mon Mar 08 22:33:52.805363 2021] [core:notice] [pid 7524:tid 688] AH00094: Command line: 'D:\\appcache\\Apache24\\bin\\httpd.exe -d D:/appcache/Apache24'
+[Mon Mar 08 22:33:52.807358 2021] [mpm_winnt:notice] [pid 7524:tid 688] AH00418: Parent: Created child process 13244
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 13244:tid 1484] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 08 22:42:47.956954 2021] [mpm_winnt:notice] [pid 7524:tid 688] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 08 22:42:49.958606 2021] [mpm_winnt:notice] [pid 13244:tid 1484] AH00364: Child: All worker threads have exited.
+[Mon Mar 08 22:42:49.999495 2021] [mpm_winnt:notice] [pid 7524:tid 688] AH00430: Parent: Child process 13244 exited successfully.
